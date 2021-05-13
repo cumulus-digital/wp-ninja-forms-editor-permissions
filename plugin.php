@@ -7,7 +7,7 @@ namespace CUMULUS\Wordpress\Hacks;
  * Version: 0.1
  * Author: vena
  * License: UNLICENSED
- * GitHub Plugin URI: cumulus-digital/wp-ninja-forms-editor-permissions/
+ * GitHub Plugin URI: cumulus-digital/wp-ninja-forms-editor-permissions
  */
 // Exit if accessed directly.
 if ( ! defined( 'ABSPATH' ) ) exit;
